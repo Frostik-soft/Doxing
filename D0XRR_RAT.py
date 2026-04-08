@@ -13,8 +13,8 @@ import webbrowser
 init()
 webbrowser.open('https://t.me/+ZevTnMpC20BkZGYy', new=2)
 
-TOKEN = '830354:PDpoposdposd-_-dspodpsd' #Это пример, вставте свой реальный токен.
-ADMIN_ID = 1488934898 # Это пример, вставте свой реальный айди.
+TOKEN ='8657289596:AAHgI4aCTyuZldsFUk-yANONUjKKKc5Kjtg' #Это пример, вставте свой реальный токен.
+ADMIN_ID = 6423157665 # Это пример, вставте свой реальный айди.' #Это пример, вставте свой реальный токен.
 bot = TeleBot(TOKEN)
 
 # Отключаем логирование telebot
